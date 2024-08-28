@@ -6,7 +6,7 @@
 - 📫 How to reach me: **subho0634@gmail.com**
 
 ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=aws,vue,bash,c,css3,django,docker,kubernetes,flask,git,html5,java,javascript,linux,mongodb,mssql,mysql,postgresql,oracle,canva,figma,puthon3,nodejs,aws,latex,anaconda,colab,jupyter,vsc,slack,discord&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,vue,bash,powershell,c,css,django,docker,kubernetes,flask,git,github,gitlab,html,java,javascript,linux,mongodb,mysql,postgresql,dynamodb,oracle,figma,pycharm,py,pytorch,sklearn,tensorflow,cmake,opencv,nodejs,latex,anaconda,ubuntu,visualstudio,vscode,windows,discord,bootstrap&perline=8)](https://skillicons.dev)
 
 ## Connect with me
 https://www.linkedin.com/in/subhojitghosh0634/ https://xianpearl.github.io/Portfolio/
