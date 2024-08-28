@@ -6,7 +6,7 @@
 - 📫 How to reach me: **subho0634@gmail.com**
 
 ## Languages and Tools
-bash c css3 django docker kubernetes flask git html5 java javascript linux mongodb mssql mysql oracle canva figma postgresql python3 nodejs aws latex
+https://www.gnu.org/software/bash/ https://www.cprogramming.com/ css3 django docker kubernetes flask git html5 java javascript linux mongodb mssql mysql oracle canva figma postgresql python3 nodejs aws latex
 
 ## Connect with me
 https://www.linkedin.com/in/subhojitghosh0634/ https://xianpearl.github.io/Portfolio/
