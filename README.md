@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,vue,bash,powershell,c,css,django,docker,kubernetes,flask,git,github,gitlab,html,java,javascript,linux,mongodb,mysql,postgresql,dynamodb,gmail,figma,ai,pycharm,py,pytorch,sklearn,tensorflow,cmake,opencv,nodejs,latex,anaconda,ubuntu,visualstudio,vscode,windows,discord,bootstrap&perline=12)](https://skillicons.dev)
 
 ## Connect with me
-[![Website](https://raw.githubusercontent.com/praveenscience/xianpearl/master/soc/ws.svg)](https://xianpearl.github.io/Portfolio/)
+https://img.shields.io/badge/website-subhojitghosh0634-1da1f2.svg?&style=for-the-badge&logo=website
 
 [![Slack](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/bl.svg)](https://blog.praveen.science/) 
 
